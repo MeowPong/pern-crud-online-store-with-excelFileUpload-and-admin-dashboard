@@ -9,7 +9,7 @@ It includes both the **customer-facing website (Homepage)** and the **Admin Dash
 ## 🎥 Project Presentation
 
 Watch the project demo video here:
-👉 [Project Video Link] ( https://youtu.be/o0rlNHhFCuo )
+👉 ( https://youtu.be/o0rlNHhFCuo )
 
 ---
 
