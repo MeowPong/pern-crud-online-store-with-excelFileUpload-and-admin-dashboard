@@ -65,7 +65,7 @@ Before running the project, make sure you have **Node.js** and **PostgreSQL** in
 
 4. **Environment Variables**
 
-   * You can refer to `.env.example` for required environment variables and create your own `.env` file in each directory.
+   * You can refer to `.env.example` for required environment variables and create your own `.env` file in API folder.
 
 ---
 
